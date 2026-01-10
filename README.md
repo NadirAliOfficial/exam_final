@@ -1,12 +1,21 @@
-# exam_final
+# Final Exam Project
 
-Final exam materials and project files.
+Final exam project files and submissions — includes solutions, notebooks, and reference material.
 
-## Overview
+## Contents
+- Jupyter notebooks with solutions
+- Python scripts
+- Supporting data files
 
-This repository contains final exam submissions and related project files by Nadir Ali Khan.
+## Requirements
+```
+pip install jupyter pandas numpy matplotlib
+```
 
-## Author
+## Usage
+```bash
+jupyter notebook
+```
 
-**Nadir Ali Khan** — [GitHub](https://github.com/NadirAliOfficial) | [Team NAK](https://teamnak.com)
-
+## License
+Academic use only
